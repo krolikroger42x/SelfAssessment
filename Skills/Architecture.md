@@ -1,63 +1,63 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Modularity h
+  - Components h
+  - Directories h
+  - GRASP 
+  - SOLID h
+  - GoF patterns h
   - CQS
-  - Leaking abstractions
+  - Leaking abstractions 
   - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
+  - Contract programming h
+  - Platform-agnostic h
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Code coverage k
+  - Cohesion h
+  - Coupling h
+  - Cyclomatic complexity 
+  - Reliability h
+  - Quality h
+  - Availability h
+  - Flexibility h
+  - Law of Demeter (LoD) 
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
+  - Isolation between layer 
+  - Domain-specific language (DSL) h
+  - System vs applied code 
+  - Multilayer approach 
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Inversion of control (IoC) h
+  - Dependency injection (DI) h
+  - Clean architecture h
+  - Domain-driven design (DDD) h
   - Pub/sub
-  - Message brocker
-  - Agent
+  - Message brocker h
+  - Agent 
   - Service locator
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
+  - Message Queue (MQ) h
+  - CQRS 
+  - Event sourcing 
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML k
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems 
   - High-intensive computing
-  - Load balancing
+  - Load balancing h
   - Gateways
-  - On-premises
+  - On-premises h
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS h
   - FaaS clouds
-  - Serverless
+  - Serverless h
   - Vendor lock-in
   - Bus factor
 - Solution architecture
