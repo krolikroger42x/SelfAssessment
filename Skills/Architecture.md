@@ -1,63 +1,63 @@
 ## Architecture
 
 - Application structure
-  - Modularity h
-  - Components h
-  - Directories h
-  - GRASP 
-  - SOLID h
-  - GoF patterns h
+  - Modularity: 👂 heard
+  - Components: 👂 heard
+  - Directories: 👂 heard
+  - GRASP
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - CQS
-  - Leaking abstractions 
+  - Leaking abstractions
   - Multiparadigm code
-  - Contract programming h
-  - Platform-agnostic h
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage k
-  - Cohesion h
-  - Coupling h
-  - Cyclomatic complexity 
-  - Reliability h
-  - Quality h
-  - Availability h
-  - Flexibility h
-  - Law of Demeter (LoD) 
+  - Code coverage: 🎓 known
+  - Cohesion: 👂 heard
+  - Coupling: 👂 heard
+  - Cyclomatic complexity
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
+  - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer 
-  - Domain-specific language (DSL) h
-  - System vs applied code 
-  - Multilayer approach 
+  - Isolation between layer
+  - Domain-specific language (DSL): 👂 heard
+  - System vs applied code
+  - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC) h
-  - Dependency injection (DI) h
-  - Clean architecture h
-  - Domain-driven design (DDD) h
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 👂 heard
+  - Clean architecture: 👂 heard
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
-  - Message brocker h
-  - Agent 
+  - Message brocker: 👂 heard
+  - Agent
   - Service locator
-  - Message Queue (MQ) h
-  - CQRS 
-  - Event sourcing 
+  - Message Queue (MQ): 👂 heard
+  - CQRS
+  - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML k
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems 
+  - Distributed systems
   - High-intensive computing
-  - Load balancing h
+  - Load balancing: 👂 heard
   - Gateways
-  - On-premises h
+  - On-premises: 👂 heard
   - IaaS
   - PaaS
-  - SaaS h
+  - SaaS: 👂 heard
   - FaaS clouds
-  - Serverless h
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
