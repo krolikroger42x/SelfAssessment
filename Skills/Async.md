@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop h
+  - `try..catch` u
+  - Non-blocking h
+  - Async I/O h
+  - Thread pool 
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -13,29 +13,29 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
+  - Race conditions h
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming h
   - Actor Model
-  - Thread
-  - Process
+  - Thread h
+  - Process h
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Callbacks h
+  - Callback-last-error-first h
+  - Thenable h
+  - Promise h
+  - Async/await h
+  - Future 
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event h
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal h
   - Stream
   - Chain of responsibility
   - Middleware
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
+  - Promise.all h
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any h
   - Web Locks API
   - IPC
   - Channel API
