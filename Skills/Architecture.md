@@ -1,63 +1,63 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity: 👂 heard
+  - Components: 👂 heard
+  - Directories: 👂 heard
   - GRASP
-  - SOLID
-  - GoF patterns
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
   - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
+  - Code coverage: 🎓 known
+  - Cohesion: 👂 heard
+  - Coupling: 👂 heard
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 👂 heard
+  - Clean architecture: 👂 heard
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
-  - Message brocker
+  - Message brocker: 👂 heard
   - Agent
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing
+  - Load balancing: 👂 heard
   - Gateways
-  - On-premises
+  - On-premises: 👂 heard
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS: 👂 heard
   - FaaS clouds
-  - Serverless
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
