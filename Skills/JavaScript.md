@@ -1,12 +1,12 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
+  - `Object` ~
+  - `Function` ~
+  - `Boolean` ~
+  - `Number` ~
+  - `BigInt` +
+  - `String` +
   - `Symbol`
   - `Infinity`
   - `NaN`
