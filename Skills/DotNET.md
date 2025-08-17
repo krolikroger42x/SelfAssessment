@@ -3,7 +3,7 @@
 - Core Concepts and Internals ~
   - Strengths and weaknesses of .NET: 🎓 known
   - Stateful and stateless services: 👂 heard
-  - Asynchronous and synchronous programming: 👂 heard
+  - Asynchronous and synchronous programming: 🎓 known
   - Task-based asynchronous pattern: 👂 heard
   - Garbage collection in .NET: 👂 heard
   - .NET runtime versions and support: 👂 heard
@@ -37,7 +37,7 @@
   - Memory and resource management: 👂 heard
   - Globalization and localization: 👂 heard
 - Network and Protocols
-  - HTTP/HTTPS support
+  - HTTP/HTTPS support: 👂 heard
   - WebSockets for real-time communication
   - TCP/UDP networking
   - SSL/TLS for secure connections
