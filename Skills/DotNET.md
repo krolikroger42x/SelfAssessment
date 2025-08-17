@@ -1,41 +1,41 @@
 ## .NET
 
 - Core Concepts and Internals ~
-  - Strengths and weaknesses of .NET +
-  - Stateful and stateless services ~
-  - Asynchronous and synchronous programming ~
-  - Task-based asynchronous pattern ~
-  - Garbage collection in .NET ~
-  - .NET runtime versions and support ~
-  - I/O-bound, CPU-bound tasks ~
-  - Real-time applications with SignalR ~
+  - Strengths and weaknesses of .NET: 🎓 known
+  - Stateful and stateless services: 👂 heard
+  - Asynchronous and synchronous programming: 👂 heard
+  - Task-based asynchronous pattern: 👂 heard
+  - Garbage collection in .NET: 👂 heard
+  - .NET runtime versions and support: 👂 heard
+  - I/O-bound, CPU-bound tasks: 👂 heard
+  - Real-time applications with SignalR: 👂 heard
 - Modularity and Dependencies ~
-  - .NET assemblies +
-  - NuGet package management +
-  - Dependency management in .NET +
-  - Dependency Injection in .NET ~
-  - Inversion of Control (IoC) ~
-  - IoC containers in .NET ~
-  - Middleware and pipeline configuration ~
-  - Modular applications ~
-- Environment and Tools 
-  - Command line interface (CLI) tools ~
-  - .NET CLI ~
-  - Windows Services and Linux Daemons ~
-  - Hosting and Deployment models ~
-  - IIS and Kestrel web server ~
-  - Environment variables and configuration ~
-  - File system I/O operations ~
-  - Multithreading with Task Parallel Library (TPL) ~
-  - Performance monitoring and diagnostics ~
+  - .NET assemblies: 🎓 known
+  - NuGet package management: 🎓 known
+  - Dependency management in .NET: 🎓 known
+  - Dependency Injection in .NET: 👂 heard
+  - Inversion of Control (IoC): 👂 heard
+  - IoC containers in .NET: 👂 heard
+  - Middleware and pipeline configuration: 👂 heard
+  - Modular applications: 👂 heard
+- Environment and Tools
+  - Command line interface (CLI) tools: 👂 heard
+  - .NET CLI: 👂 heard
+  - Windows Services and Linux Daemons: 👂 heard
+  - Hosting and Deployment models: 👂 heard
+  - IIS and Kestrel web server: 👂 heard
+  - Environment variables and configuration: 👂 heard
+  - File system I/O operations: 👂 heard
+  - Multithreading with Task Parallel Library (TPL): 👂 heard
+  - Performance monitoring and diagnostics: 👂 heard
 - APIs and Framework Features
-  - LINQ ~
-  - SignalR for real-time web functionality ~
-  - High-performance RPC with `gRPC` ~
-  - Security features (authentication, authorization) ~
-  - Cryptography and secure data handling ~
-  - Memory and resource management ~
-  - Globalization and localization ~
+  - LINQ: 👂 heard
+  - SignalR for real-time web functionality: 👂 heard
+  - High-performance RPC with `gRPC`: 👂 heard
+  - Security features (authentication, authorization): 👂 heard
+  - Cryptography and secure data handling: 👂 heard
+  - Memory and resource management: 👂 heard
+  - Globalization and localization: 👂 heard
 - Network and Protocols
   - HTTP/HTTPS support
   - WebSockets for real-time communication
