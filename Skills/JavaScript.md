@@ -1,10 +1,10 @@
 ## JavaScript
 
 - Language
-  - `Object` ~
-  - `Function` ~
-  - `Boolean` *
-  - `Number` +
+  - `Object`: 👂 heard
+  - `Function`: 👂 heard
+  - `Boolean`: 🖐️ used
+  - `Number`: 🎓 known
   - `BigInt`
   - `String`
   - `Symbol`
