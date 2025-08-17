@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-0&nbsp;/&nbsp;0&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/krolikroger42x/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-6&nbsp;/&nbsp;57&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/krolikroger42x/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-0&nbsp;/&nbsp;0&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/krolikroger42x/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-6&nbsp;/&nbsp;57&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/krolikroger42x/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/krolikroger42x/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-0&nbsp;/&nbsp;0&nbsp;/&nbsp;736-009933?style=flat-square"></a>
+<a href="https://github.com/krolikroger42x/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-6&nbsp;/&nbsp;57&nbsp;/&nbsp;736-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,7 +27,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `0` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `0` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `6` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `0` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `0` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `0` | `8` |
