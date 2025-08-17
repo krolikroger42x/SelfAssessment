@@ -3,8 +3,8 @@
 - Language
   - `Object` ~
   - `Function` ~
-  - `Boolean` ~
-  - `Number` ~
+  - `Boolean` *
+  - `Number` +
   - `BigInt`
   - `String`
   - `Symbol`
